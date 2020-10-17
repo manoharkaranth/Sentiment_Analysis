@@ -1,0 +1,9 @@
+wget==3.2
+pandas==1.0.5
+numpy==1.18.5
+re==2.2.1
+bs4==4.9.1
+spacy==2.3.2
+wordcloud==1.8.0
+textblob==0.15.3
+watermark==2.0.2
